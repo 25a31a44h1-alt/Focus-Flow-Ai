@@ -1,0 +1,6 @@
+{
+  "name": "FocusFlow AI",
+  "description": "AI-powered student study planner with personalized timetable generation, task prioritization, and study progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
